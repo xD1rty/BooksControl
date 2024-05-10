@@ -1,3 +1,11 @@
+"""
+ДЛЯ ЗАПУСКА ТРЕБУЕТСЯ ПРОСТО ВВЕСТИ
+python3 app.py 
+
+И все заработает
+"""
+
+
 from db import Database
 
 db = Database("test.db")
